@@ -4,5 +4,6 @@ public class git {
     public static void main(String[] args) {
         System.out.println("要添加到git喽");
         System.out.println("第二次添加git");
+        System.out.println("第3次添加git");
     }
 }
