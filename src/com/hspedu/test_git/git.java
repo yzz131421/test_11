@@ -6,5 +6,6 @@ public class git {
         System.out.println("第2次添加到git");
         System.out.println("第3次添加到git");
         System.out.println("master commit git");
+        System.out.println("hot-fix commit git");
     }
 }
